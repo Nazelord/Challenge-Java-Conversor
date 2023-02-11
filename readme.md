@@ -29,7 +29,12 @@
 - Mass Converter (kg, lb and oz)
 
 ## Example of use
-![Example screenshot](./img/screenshot.png)
+![Converter](https://user-images.githubusercontent.com/108071857/218279934-848b1ba2-7b49-4e12-b54e-53d9fad33dc2.gif)
+
+
+
+
+
 
 ## Setup
 You need to have this installed on your pc to run the program:
@@ -63,4 +68,4 @@ To do:
 - **This project was inspired by Oracle Next Education-Java Challenge**
 
 ## Contact
-Created by [@Nazelord](https://www.github.nazelord.cyou/) - feel free to contact me!
+Created by [@Nazelord](https://github.nazelord.cyou/) - feel free to contact me!
